@@ -10,10 +10,9 @@ Actually this is a script which is download any torrent file or meganate url and
 ![alt text](https://i.ibb.co/JRg3gjS/mqdefault.jpg)
 
 magnet:?xt=urn:btih:994ABD947CED1FEEBB2F5F59FA3F3FDB1F659A1E&dn=Maze+Runner%3A+The+Death+Cure+%282018%29+%5B720p%5D+%5BBluRay%5D+%5BYTS.CONTACT%5D&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://9.rarbg.to:2710/announce&tr=udp://p4p.arenabg.ch:1337/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=http://p4p.arenabg.com:1337/announce&tr=udp://tracker.internetwarriors.net:1337/announce
+# TO
 
-to
-
-[https://google.drive.com/](https://drive.google.com/file/d/******************w?usp=drive_link)
+[https://drive.google.com/file/d/******************w?usp=drive_link](https://drive.google.com/file/d/******************w?usp=drive_link)
 
 
 # What is feature in future
